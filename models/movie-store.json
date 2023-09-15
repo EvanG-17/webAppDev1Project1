@@ -1,0 +1,90 @@
+{
+  "movieCollection": [
+    {
+      "id": "c1",
+      "collectionName": "Christopher Nolan",
+      "duration": "445 mintues ",
+      "movies": [
+        {
+          "id": "m1",
+          "moviename": "The Dark Knight",
+          "director": "Christopher Nolan",
+          "duration": "128 mintues ",
+          "genre" : "Action"
+          
+        },
+        {
+          "id": "m2",
+          "moviename": "Interstellar",
+          "director": "Christopher Nolan",
+          "duration": "169 minutes ",
+          "genre" : "Sci-Fi"
+        },
+        {
+          "id": "m3",
+          "moviename": "Inception",
+          "director": "Christopher Nolan",
+          "duration": "148 minutes ",
+          "genre" : "Action"
+        }
+      ]
+    },
+    {
+       "id": "c2",
+      "collectionName": "Collection 2",
+      "duration": "424 mintues ",
+      "movies": [
+        {
+          "id": "m4",
+          "moviename": "Jurassic Park",
+          "director": "Stephen Spielberg",
+          "duration": "127 minutes ",
+          "genre" : "Adventure, Thriller"
+          
+        },
+        {
+          "id": "m5",
+          "moviename": "Star Wars: A New Hope (Episode IV)",
+          "director": "George Lucas",
+          "duration": "121 minutes ",
+          "genre" : "Sci-Fi, Adventure"
+        },
+        {
+          "id": "m6",
+          "moviename": "The Batman",
+          "director": "Matt Reeves",
+          "duration": "176 minutes ",
+          "genre" : "Action, Thriller"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+    "collectionName": "Collection 3",
+      "duration": "398 mintues ",
+      "movies": [
+        {
+          "id": "m7",
+          "moviename": "Spiderman",
+          "director": "Sam Rami",
+          "duration": "127 minutes ",
+          "genre" : "Action, Adventure"
+        },
+        {
+          "id": "m8",
+          "moviename": "Arrival",
+          "director": "Dennis Villeneuve",
+          "duration": "116 minutes ",
+          "genre" : "Thriller, Sci-Fi, Mystery"
+        },
+        {
+          "id": "m9",
+          "moviename": "Dune",
+          "director": "Matt Reeves",
+          "duration": "155 minutes ",
+          "genre" : "Sci-Fi, Adventure"
+        }
+      ]
+    }
+  ]
+}
